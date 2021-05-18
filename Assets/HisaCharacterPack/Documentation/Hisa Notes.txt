@@ -1,0 +1,7 @@
+Thank you for purchasing "Hisa Character Mini Pack #1"
+-------------------------------------------------------------
+You can use this asset directly in "prefab" folder, 
+or you can create custom animation using spritesheet on "sprites" folder.
+-------------------------------------------------------------
+
+© 2020 Hisa Games
